@@ -1,8 +1,9 @@
 package doer
 
 import (
-	"github/com/mytest/doer/mocks"
 	"testing"
+
+	"github.com/nthlongtma/go-gomock/mocks"
 
 	"github.com/golang/mock/gomock"
 )
