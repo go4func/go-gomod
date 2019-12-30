@@ -1,4 +1,4 @@
-package doer // import "github/com/mytest/doer"
+package doer // import "github.com/nthlongtma/go-gomock"
 
 import "io"
 
