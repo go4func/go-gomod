@@ -3,9 +3,8 @@ package doer
 import (
 	"testing"
 
-	"github.com/nthlongtma/go-gomock/mocks"
-
 	"github.com/golang/mock/gomock"
+	"github.com/nthlongtma/go-gomock/mocks"
 )
 
 func TestDo(t *testing.T) {
