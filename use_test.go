@@ -17,7 +17,7 @@ func TestDo(t *testing.T) {
 		mockDoer,
 	}
 
-	// mockDoer.EXPECT().Do(2, "one").Return(nil)
+	mockDoer.EXPECT().Do(1, "two").Return(nil)
 	user.Use()
 
 }
