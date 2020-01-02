@@ -1,4 +1,4 @@
-package hello
+package hello // import "github.com/nthlongtma/go-gomock"
 
 import "rsc.io/quote/v3"
 
