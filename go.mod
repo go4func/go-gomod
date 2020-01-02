@@ -1,4 +1,4 @@
-module github.com/nthlongtma/go-gomod
+module example.com/hello
 
 go 1.13
 

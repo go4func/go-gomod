@@ -1,4 +1,4 @@
-package hello // import "github.com/nthlongtma/go-gomod"
+package hello // import "example.com/hello"
 
 import "rsc.io/quote/v3"
 
