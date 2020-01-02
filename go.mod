@@ -1,4 +1,4 @@
-module github.com/nthlongtma/go-gomock
+module github.com/nthlongtma/go-gomod
 
 go 1.13
 
