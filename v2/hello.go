@@ -1,4 +1,4 @@
-package hello
+package hello // import "nthlong/hello/v2"
 
 import "rsc.io/quote/v3"
 
