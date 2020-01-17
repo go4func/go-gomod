@@ -1,9 +1,9 @@
-package hello // import "github.com/nthlongtma/go-gomod/v2"
+package hello
 
 import "rsc.io/quote/v3"
 
 func Hello() string {
-	return quote.HelloV3()
+	return "hello from version 2"
 }
 
 func Proverb() string {
